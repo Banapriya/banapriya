@@ -1,4 +1,4 @@
-this is my 1st line
+this is my 1st modified line
 this is 2nd
 this is 3rd modified line which is not present in branch2 and master branch
 New line added in b1 after branch2 is created. not present in branch2 and master branch
